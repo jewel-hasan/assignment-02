@@ -554,6 +554,20 @@ margin-bottom: 5px;
     height: 35px;
     margin: 10px;
 }
+.newsletter-image-btn{
+    position: relative;
+
+    color: white;
+    background-color: #ff5400;
+    border: 1px solid #ff5400;
+    border-radius: 5px;
+    width: 210px;
+    height: 80px;
+    margin: 10px;
+    left: 370px;
+    bottom: 150px;
+    transform: rotate(-30deg);
+}
 
 /* Perfect Area */
 .perfect-area{
